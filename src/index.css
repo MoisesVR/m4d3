@@ -11,3 +11,46 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* .header{
+  display: flex;
+  align-items:center ;
+  justify-content:space-between;
+  background-color: gray;
+} */
+
+.inputName, .inputCorreo{
+  width: 400px;
+}
+
+button{
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.bodyComponent{
+  margin: 5px;
+  border-bottom: solid 1px gray;
+}
+
+.inputColaborador{
+  margin-right: 30px;
+  border-radius: 10px;
+}
+
+.search{
+  margin-right: 10px;
+}
+
+.clean{
+  margin-left: 10px;
+}
+
+.addButton{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.navbar{
+  background-color: gray;
+  color: white
+}
